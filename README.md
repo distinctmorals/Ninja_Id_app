@@ -1,3 +1,2 @@
 # ninja_id
-
-A new Flutter project.
+A simple flutter app using stateful widgets
